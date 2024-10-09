@@ -6,3 +6,4 @@
 4. Functions
 5. Modules
 6. File Handling
+7. Exception Handling
