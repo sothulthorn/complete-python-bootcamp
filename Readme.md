@@ -7,3 +7,4 @@
 5. Modules
 6. File Handling
 7. Exception Handling
+8. Class and Objects
