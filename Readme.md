@@ -11,3 +11,4 @@
 9. Advanced Python concept
 10. Data Analysis with Python
 11. Working with Sqlite3
+12. Logging in Python
